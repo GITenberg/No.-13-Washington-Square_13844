@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '1176'
     url: http://www.gutenberg.org/2009/agents/1176
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13844#No.-13-Washington-Square
 gutenberg_issued: '2004-10-24'
 gutenberg_type: Text
 identifiers:
